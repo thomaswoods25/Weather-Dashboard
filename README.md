@@ -6,7 +6,7 @@ My github: https://github.com/thomaswoods25
 
 My github repo: https://github.com/thomaswoods25/weather-dashboard
 
-Published site: https://thomaswoods25.github.io/Weather-dashboard
+Published site: https://thomaswoods25.github.io/Weather-dashboard/
 
 Summary: With the 5th project, I was able to create a successful work sche
 
